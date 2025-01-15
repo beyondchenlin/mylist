@@ -29,7 +29,7 @@ export default async function RootLayout({ children }) {
     <Navbar
       logo={
         <div>
-          <b>Nextra</b>{' '}
+          <b>Mylist</b>{' '}
           <span style={{ opacity: '60%' }}>The Next Docs Builder</span>
         </div>
       }

@@ -10,7 +10,7 @@ export default function BlogPage() {
         fontWeight: 'bold'
       }}
     >
-      Blog page
+      My Blog 
     </h1>
   )
 }
